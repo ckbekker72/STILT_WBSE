@@ -3,7 +3,7 @@ This repository contains code, data, and graphics to accompany {ADD CITATION & D
 ## Requirements
 Analyses require use of Python and R. 
 ## Code Access
-To clone this repository to your workspace: git clone https://github.com/ckbekker72/STILT_WBSE 
+To clone this repository to your workspace: git clone https://github.com/ckbekker72/STILT_WBSE
 ## Contents and Description
 ### 1) Receptor Selection
 01_Monitor_receptors_new.ipynb: This file iterates through a selection process to choose the 16 receptors for STILT atmospheric modeling
